@@ -256,6 +256,7 @@ h5 {
 
 .footer ul {
     list-style: none;
+    padding: 0;
 }
 
 .footer ul a {
